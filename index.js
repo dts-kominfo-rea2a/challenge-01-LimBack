@@ -128,9 +128,8 @@ function main() {
     console.log(users.length || users.size);
     console.log(users);
 }
-
+ 
 main();
-
-module.exports = {
+module.exports = { 
     users
 }; 
